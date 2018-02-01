@@ -4,6 +4,16 @@
   "description": "Hyperterm plugin for structifytext",
   "main": "dist/hyperstructify.js",
   "license": "MIT",
+  "keywords": [
+    "hyper.app",
+    "hyper",
+    "hyperterm"
+  ],
+  "author": "Darin Sikanic",
+  "repository": "darinsikanic/hyperstructify",
+  "files": [
+    "dist/hyperstructify.js"
+  ],
   "dependencies": {
     "hyper": "^0.0.5",
     "react-ace": "^5.8.0",
