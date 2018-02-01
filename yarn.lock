@@ -54,49 +54,6 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@material/animation@^0.25.0":
-  version "0.25.0"
-  resolved "https://registry.yarnpkg.com/@material/animation/-/animation-0.25.0.tgz#b252ac3d0b628e79a79f0c406d7470fb56352a80"
-
-"@material/base@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@material/base/-/base-0.29.0.tgz#5fac94c45907e38c969130e959722288d4ce06b2"
-
-"@material/button@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@material/button/-/button-0.29.0.tgz#a0bd58caee34f375dd80b1f9365cd3a66044ec3a"
-  dependencies:
-    "@material/elevation" "^0.28.0"
-    "@material/ripple" "^0.29.0"
-    "@material/theme" "^0.29.0"
-    "@material/typography" "^0.28.0"
-
-"@material/elevation@^0.28.0":
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/@material/elevation/-/elevation-0.28.0.tgz#78d3a551b78100d588c457600733ee1c6fd04501"
-  dependencies:
-    "@material/animation" "^0.25.0"
-    "@material/theme" "^0.4.0"
-
-"@material/ripple@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@material/ripple/-/ripple-0.29.0.tgz#3cfad8b4a717d69cf1b3ba7ecd065045662733cb"
-  dependencies:
-    "@material/base" "^0.29.0"
-    "@material/theme" "^0.29.0"
-
-"@material/theme@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@material/theme/-/theme-0.29.0.tgz#1004bc110e8c9af2b78a3e19a023bca26c45ba51"
-
-"@material/theme@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@material/theme/-/theme-0.4.0.tgz#0aef1a0279b65c15990584fb8b8eca095c734641"
-
-"@material/typography@^0.28.0":
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/@material/typography/-/typography-0.28.0.tgz#4ae96a852fcd324d61b649adc995326c431fcaea"
-
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -2034,10 +1991,6 @@ hyper@^0.0.5:
     pug latest
     serve-favicon "^2.3.2"
     stylus "^0.54.5"
-
-hyperterm-window@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/hyperterm-window/-/hyperterm-window-1.0.1.tgz#f927074573cac523c19f4789774d335ee9fd5e8b"
 
 iconv-lite@0.4.19, iconv-lite@^0.4.17, iconv-lite@~0.4.13:
   version "0.4.19"
