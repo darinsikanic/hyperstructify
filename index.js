@@ -85,7 +85,7 @@ exports.getTermProps = passTermProps
 
 exports.decorateMenu = menu => {
   modelMenu = {
-    label: 'Toggle Custom Pane',
+    label: 'Toggle Hyperstructify',
     accelerator: 'CmdOrCtrl+Shift+M',
     click(item, focusedWindow) {
       focusedWindow && focusedWindow.rpc.emit('toggle-cpane')
