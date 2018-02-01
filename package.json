@@ -7,7 +7,8 @@
   "dependencies": {
     "hyper": "^0.0.5",
     "react-ace": "^5.8.0",
-    "react-container-dimensions": "^1.3.3"
+    "react-container-dimensions": "^1.3.3",
+    "structifytextjs": "^0.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
